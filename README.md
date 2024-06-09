@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook for analyzing and predicting fraud u
 
 ## Introduction
 
-Fraud detection is a critical application in various industries, aiming to identify and prevent fraudulent activities. This project focuses on building and evaluating machine learning models to enhance fraud detection accuracy and reduce false negatives by adjusting the decision threshold.
+Fraud detection is a critical application in various industries, aiming to identify and prevent fraudulent activities. Fraud detection is a critical process in the financial industry, particularly in credit card transactions, to identify and prevent fraudulent activities. Fraudsters can employ various techniques to misuse credit cards, such as stealing card information, making unauthorized purchases, or engaging in other illegal activities. Effective fraud detection systems are essential to protect customers, financial institutions, and merchants from financial losses and maintain the integrity of the payment ecosystem. This project focuses on building and evaluating machine learning models to enhance fraud detection accuracy and reduce false negatives by adjusting the decision threshold.
 
 ## Installation
 
