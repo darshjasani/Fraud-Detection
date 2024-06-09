@@ -11,7 +11,6 @@ This repository contains a Jupyter Notebook for analyzing and predicting fraud u
 5. [Modeling](#modeling)
 6. [Evaluation](#evaluation)
 7. [Results](#results)
-8. [Contributing](#contributing)
 
 ## Introduction
 
@@ -70,6 +69,3 @@ The models are evaluated based on the following metrics:
 
 The results section provides a comprehensive analysis of the model performance, highlighting the impact of threshold adjustments on recall and F1 score. Detailed plots and tables are included to visualize the findings.
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before making any changes.
